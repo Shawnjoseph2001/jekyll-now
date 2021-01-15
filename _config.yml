@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: shawnjoseph2001
   instagram: shawnjosephotography
-  linkedin: 
+  linkedin: shawn-joseph-797754122
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -86,3 +86,6 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-cayman
+layout: default
+comments: true
+
