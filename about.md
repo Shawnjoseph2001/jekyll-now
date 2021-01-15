@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! My name is Shawn Joseph, and I am a CS student at CSULB. I also work part-time in technology at BlueHills and am part of the CSULB Beach Launch Team where I develop rocketry software. On this blog, I talk about anything and everything I want to relevant to technology.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shawn@quests.tech](mailto:shawn@quests.tech)
+
