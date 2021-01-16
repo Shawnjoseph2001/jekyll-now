@@ -15,8 +15,8 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Overpass, Helvetica, Arial, sans-serif;
-$helveticaNeue: Overpass, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helvetica: Montserrat, Helvetica, Arial, sans-serif;
+$helveticaNeue: Bebas Neue, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 $overpass: Overpass, Helvetica, Arial, sans-serif;
 
@@ -27,4 +27,5 @@ $overpass: Overpass, Helvetica, Arial, sans-serif;
   }
 }
 //import Overpass font
-@import url("https://fonts.googleapis.com/css?family=Overpass");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue');
