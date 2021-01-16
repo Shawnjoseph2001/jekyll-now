@@ -15,9 +15,10 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helvetica: Overpass, Helvetica, Arial, sans-serif;
+$helveticaNeue: Overpass, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$overpass: Overpass, Helvetica, Arial, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
@@ -25,3 +26,5 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+//import Overpass font
+@import url("https://fonts.googleapis.com/css?family=Overpass");
